@@ -1,6 +1,23 @@
 <!DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
+<head>
+	<title>HTML Tutorial</title>
+	<style>
+		body {
+			  background-color: lightblue;
+			}
+
+			h1 {
+			  color: white;
+			  text-align: center;
+			}
+
+			p {
+			  font-family: verdana;
+			  font-size: 20px;
+			}
+	</style>
+</head>
 <body>
 
 <h1>This is a heading</h1>
